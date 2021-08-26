@@ -1,0 +1,14 @@
+
+{
+  "layer1":{
+    "type": "Dense",
+    "in": 3,
+    "out": 2
+  },
+  "layer2": {
+    "type": "Dense",
+    "in": 2,
+    "out": 1
+  }
+}
+
